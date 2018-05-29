@@ -1,1 +1,4 @@
 .idea
+out
+kotlinc_demo.iml
+node_modules
